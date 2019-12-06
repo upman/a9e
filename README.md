@@ -8,6 +8,8 @@ a10e (abbreviation) and shows you what the full word on hover.
 
 Have fun with your training wheels for the impending communication a9e! (apocalypse)
 
+![Screenshot](https://i.imgur.com/EWcQhPO.jpg)
+
 ## Installation
 1. Download "Source code (zip)" of the latest version in [Releases](https://github.com/upman/a9e/releases)
 Or clone `git@github.com/upman/a9e.git` if you are comfortable with Git
