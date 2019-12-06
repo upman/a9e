@@ -7,3 +7,11 @@ To help us all adapt to this bold new world, here's a chrome extension that repl
 a10e (abbreviation) and shows you what the full word on hover. 
 
 Have fun with your training wheels for the impending communication a9e! (apocalypse)
+
+## Installation
+1. Download "Source code (zip)" of the latest version in [Releases](https://github.com/upman/a9e/releases)
+Or clone `git@github.com/upman/a9e.git` if you are comfortable with Git
+2. Unzip the downloaded zip file
+3. In Chrome, go to 'Settings > Extensions'
+4. Enable 'Developer mode'
+5. Click on 'Load unpacked extension...' and select the folder that you unzipped
